@@ -2,7 +2,7 @@
 
 **Interspeech 2026** | [Paper](#) | [arXiv](#)
 
-*Junjie Wan, Siqi Cai, Xueyi Zhang*  
+*Junjie Wan*  
 Harbin Institute of Technology, Shenzhen
 
 ## Overview
@@ -82,7 +82,7 @@ python tools/test.py configs/skeleton/posec3d/rgbpose_conv3d/rgbpose_conv3d.py <
 ```bibtex
 @inproceedings{wan2026mgsrm,
   title={Enhancing Visual Paralinguistics: Motion-Guided Spatial Denoising for Non-Verbal Interaction Analysis},
-  author={Wan, Junjie and Cai, Siqi and Zhang, Xueyi},
+  author={Wan, Junjie},
   booktitle={Interspeech},
   year={2026}
 }
